@@ -1,4 +1,4 @@
-# coba449bb966cff4594db4358
+# Password Generator
 
 Quick start:
 
